@@ -1,0 +1,38 @@
+hostname
+To get the machine identity
+
+hostname -i 
+To get the IP only
+
+pwd
+Present working directory
+
+mkdir
+Create directory
+
+ls
+File starts with . is hidden file
+
+cp source destination
+
+mv
+
+rmdir
+rm
+rm -r
+rm -rf
+
+du
+lists the folders & subfolders
+
+df
+Disk usage shown in bytes.
+
+df -m
+Disk usage shown in MB.
+
+ps
+
+pseudo halt
+pseudo start
+pseudo stop
