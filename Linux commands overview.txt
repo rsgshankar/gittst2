@@ -1,3 +1,5 @@
+Linux commands
+
 hostname
 To get the machine identity
 
